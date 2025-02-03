@@ -17,7 +17,7 @@ This project focuses on integrating Hibernate and Spring Data JPA into a Spring 
 - Understanding Spring Data JPA repositories
 - Implementing dynamic query methods
 - **Reference PDF included:** All JPA methods from [Spring Data JPA documentation](https://docs.spring.io/spring-data/jpa/reference/repositories/query-keywords-reference.html)
-  [0000.springDataJpaMethods.pdf](https://github.com/user-attachments/files/18646912/0000.springDataJpaMethods.pdf)
+- **Executions** - [0000.springDataJpaMethods.pdf](https://github.com/user-attachments/files/18646912/0000.springDataJpaMethods.pdf)
 
 ### 4. Sorting and Pagination in Spring Data JPA
 - Implementing sorting and pagination in JPA queries

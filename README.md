@@ -89,5 +89,5 @@ This project focuses on integrating Hibernate and Spring Data JPA into a Spring 
 - IntelliJ IDEA
 - MySQL Cloud Database
 
-**Thank you!**
+**Thank For you!**
 
